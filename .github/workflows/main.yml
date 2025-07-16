@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # Adicione este bloco de permissão
+      contents: write
 
     steps:
       - name: Checkout
@@ -20,6 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: matheuscbs
+          # O caminho de saída agora é 'dist', que é o padrão da action de commit
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -27,9 +30,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist
-          git commit -m "docs: update snake animation" || exit 0
-          git push
+        # A action de commit simplifica o processo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update snake animation"
+          file_pattern: dist/*.svg # Garante que apenas os arquivos da cobrinha sejam commitados
