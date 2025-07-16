@@ -43,6 +43,7 @@
 <br>
 
 ## ⭐ Estatísticas do GitHub
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscbs&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscbs&layout=compact&langs_count=8&theme=omni"/>
@@ -51,15 +52,19 @@
 <br>
 
 <div align="center">
-  [![Matheus Cardoso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuscbs&bg_color=0d1117&color=79ff97&line=79ff97&point=79ff97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Matheus Cardoso's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=matheuscbs&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ff79c6&area=true&hide_border=true" />
+  </a>
 </div>
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
