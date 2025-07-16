@@ -1,20 +1,27 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250§ion=header&text=Olá!%20Eu%20sou%20o%20Matheus%20Cardoso&fontSize=60&fontColor=fff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250§ion=header&text=Matheus%20Cardoso&fontSize=70&fontColor=fff&animation=fadeIn&desc=Tech%20Architect%20%7C%20Cloud%20&%20AI%20Builder&descAlignY=80&descAlign=60" />
 
-<p align="left">
-  Engenheiro Full Stack e Engenheiro Eletricista (IFMG), apaixonado por criar soluções de software robustas e eficientes. Minha expertise abrange <strong>arquitetura de software, cibersegurança e ciência de dados</strong>, com foco em tecnologias como <strong>Node.js, Next.js, Python e NestJS</strong>.
+<p align="center">
+  <em>"A tecnologia que move a agulha."</em>
 </p>
 
-## Sobre mim
+<p align="center">
+  Arquiteto de Soluções e Engenheiro de Dados apaixonado por construir sistemas escaláveis, resilientes e de alto impacto. 🚀<br> 
+  Com foco em <strong>IA Generativa</strong>, <strong>Arquiteturas Distribuídas</strong> e automação em nuvem (<strong>AWS/GCP</strong>), minha missão é transformar desafios complexos em soluções tecnológicas que geram resultados mensuráveis, como a reestruturação de plataformas que resultou em uma <strong>redução de 80% nos tempos de resposta</strong>.
+</p>
 
-- 🎓 Graduado em Engenharia Elétrica pelo IFMG
-- 💻 Especialista em desenvolvimento Full Stack, de ponta a ponta.
-- 🚀 Focado em arquiteturas escaláveis e seguras com ênfase em Cloud (AWS, GCP) e DevOps.
-- 🌐 Explorando constantemente o universo de microsserviços e automação com CI/CD.
-- 💡 Apaixonado por desafios complexos e aprendizado contínuo.
+---
+
+### 💡 Sobre Mim
+
+- 🎓 Pós-graduado em **Arquitetura de Software, Ciência de Dados e Cibersegurança**.
+- 💼 Atualmente **Engenheiro Full Stack** na **CreditHub**, desenvolvendo projetos de IA e extração de dados em tempo real.
+- 🚀 Especialista em otimizar performance, garantir escalabilidade com **Kubernetes** e **Docker**, e automatizar pipelines de **ETL e DevOps**.
+- ☁️ Ampla experiência em **Cloud Infrastructure** (AWS/GCP) e design de sistemas **Serverless**.
+- 🧠 Desenvolvendo soluções de **IA Generativa** para análise de crédito e outros workflows de dados intensivos.
 
 <br>
 
-## 🔗 Conecte-se comigo
+### 🔗 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-cardoso-engenheiro/" title="LinkedIn">
@@ -22,27 +29,25 @@
 </p>
 
 ---
-<br>
 
-## 💻 Tecnologias e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+    <!-- Linguagens -->
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" title="Linguagens: Python, JavaScript, TypeScript, HTML, CSS" />
     <br>
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,flask,django" />
+    <!-- Frameworks (Backend & Frontend) -->
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,react,django,flask" title="Frameworks: Node.js, NestJS, Next.js, React, Django, Flask"/>
     <br>
-    <!-- Database & DevOps -->
-    <img src="https://skillicons.dev/icons?i=postgres,mongo,aws,gcp,kubernetes,docker,jest,git" />
+    <!-- DevOps, Cloud & Database -->
+    <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,postgres,mongo,jest,git" title="Cloud & DevOps: AWS, GCP, Kubernetes, Docker, PostgreSQL, MongoDB, Jest, Git"/>
   </a>
 </p>
 
 ---
-<br>
 
-## ⭐ Estatísticas do GitHub
+### ⭐ Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscbs&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
@@ -67,4 +72,4 @@
   </picture>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
