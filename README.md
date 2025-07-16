@@ -1,37 +1,65 @@
-![Histórico de Commits](img/snakegame.gif)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250§ion=header&text=Olá!%20Eu%20sou%20o%20Matheus%20Cardoso&fontSize=60&fontColor=fff&animation=fadeIn" />
 
-# README# 👋 Bem-vindo ao meu perfil do GitHub!
+<p align="left">
+  Engenheiro Full Stack e Engenheiro Eletricista (IFMG), apaixonado por criar soluções de software robustas e eficientes. Minha expertise abrange <strong>arquitetura de software, cibersegurança e ciência de dados</strong>, com foco em tecnologias como <strong>Node.js, Next.js, Python e NestJS</strong>.
+</p>
 
-Olá! Eu sou Matheus Cardoso, um FullStack Engineer apaixonado por tecnologia especializado em arquitetura de software, cibersegurança e ciência de dados e Graduado em Engenharia Elétrica pelo IFMG. 💻
+## Sobre mim
 
-## 🚀 Sobre mim
+- 🎓 Graduado em Engenharia Elétrica pelo IFMG
+- 💻 Especialista em desenvolvimento Full Stack, de ponta a ponta.
+- 🚀 Focado em arquiteturas escaláveis e seguras com ênfase em Cloud (AWS, GCP) e DevOps.
+- 🌐 Explorando constantemente o universo de microsserviços e automação com CI/CD.
+- 💡 Apaixonado por desafios complexos e aprendizado contínuo.
 
-Atualmente, sou um desenvolvedor full-stack com conhecimentos em diversas tecnologias, como:
+<br>
 
-- HTML/CSS
-- JavaScript
-- TypeScript
-- Python
-- Flask
-- Django
-- Node.jS
-- NestJS
-- ReactJS
-- NextJS
-- Jest
-- CI/CD
-- PostgreSQL
-- MongoDB
-- AWS
-- GCP
-- Kubernetes
+## 🔗 Conecte-se comigo
 
-Adoro trabalhar em projetos desafiadores e aprender coisas novas a cada dia. 💪
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-cardoso-engenheiro/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
-## 📫 Entre em contato
+---
+<br>
 
-Se você tiver alguma pergunta ou sugestão, não hesite em entrar em contato comigo por e-mail ou através do meu perfil no LinkedIn. Vou adorar ouvir de você! 📧
+## 💻 Tecnologias e Ferramentas
 
-## 🎉 Obrigado pela visita!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Frontend -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+    <br>
+    <!-- Backend -->
+    <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,flask,django" />
+    <br>
+    <!-- Database & DevOps -->
+    <img src="https://skillicons.dev/icons?i=postgres,mongo,aws,gcp,kubernetes,docker,jest,git" />
+  </a>
+</p>
 
-Obrigado por conferir meu perfil do GitHub. Espero que você tenha gostado! Fique à vontade para seguir-me e verificar meus projetos. 👍
+---
+<br>
+
+## ⭐ Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuscbs&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscbs&layout=compact&langs_count=8&theme=omni"/>
+</div>
+
+<br>
+
+<div align="center">
+  [![Matheus Cardoso's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=matheuscbs&bg_color=0d1117&color=79ff97&line=79ff97&point=79ff97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matheuscbs/matheuscbs/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150§ion=footer" />
